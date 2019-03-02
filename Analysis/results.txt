@@ -1,0 +1,598 @@
+SVC: Kernel: linear Degree: 1 C: 1.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.8274765 , 163.07800722, 161.4212079 ]), 'score_time': array([164.62428427, 168.17118406, 162.7492826 ]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 1.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.99985552, 31.92171669, 29.98427629]), 'score_time': array([34.45302415, 34.89052129, 31.93736601]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 1.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([158.21065545, 158.15561128, 157.10357618]), 'score_time': array([166.04619598, 163.57261157, 162.13130379]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 1.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.8592844 , 32.28114581, 30.43733525]), 'score_time': array([33.78109932, 35.01548076, 32.03114867]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 1.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.92118382, 156.57744908, 156.78053951]), 'score_time': array([164.28444099, 162.06180811, 162.57747006]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 1.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.65616941, 31.68736315, 30.31236458]), 'score_time': array([33.59359717, 34.70297813, 32.01549268]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 10.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.98832607, 155.90553808, 157.0145781 ]), 'score_time': array([164.03057075, 161.73369455, 162.49928737]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 10.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.59363198, 31.64049983, 30.74986529]), 'score_time': array([33.67173338, 34.70296884, 31.92450738]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 10.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.89094877, 156.38996458, 156.78060532]), 'score_time': array([164.56177616, 161.71804309, 163.65553427]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 10.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([34.82800174, 32.48812437, 30.0779922 ]), 'score_time': array([33.78107738, 34.68739247, 31.85924244]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 10.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.42126369, 156.65562582, 158.59308815]), 'score_time': array([165.18674231, 162.23954892, 162.29615951]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 10.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.62492418, 32.21864939, 30.48429394]), 'score_time': array([33.81234264, 35.12484288, 32.10922861]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 100.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.54626083, 157.12433696, 157.68687201]), 'score_time': array([164.93849492, 162.34304261, 162.55076957]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 100.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.93735576, 32.01550269, 31.17177987]), 'score_time': array([33.68739653, 37.04136562, 32.09361863]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 100.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.87435317, 157.13246918, 157.18681574]), 'score_time': array([165.10864449, 161.68676424, 162.96807146]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 100.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.99987626, 32.42177296, 30.21861672]), 'score_time': array([34.01546168, 34.87485504, 32.04674077]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 1 C: 100.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.51496387, 156.85870934, 157.5786798 ]), 'score_time': array([165.17112637, 162.03053451, 163.45209002]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 1 C: 100.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.82801819, 33.17178178, 30.71862864]), 'score_time': array([33.78110933, 36.10916114, 31.99985576]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 1.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.18683004, 156.8430903 , 158.13997102]), 'score_time': array([165.33401608, 162.1711638 , 163.28053617]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 1.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.85928297, 31.9998703 , 29.95800018]), 'score_time': array([34.12486005, 34.79672146, 31.90611744]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 1.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.57750297, 156.70249104, 158.48372746]), 'score_time': array([164.82740426, 163.75315166, 162.29619026]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 1.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.74992466, 32.28115082, 30.21863222]), 'score_time': array([34.01545644, 34.87484121, 31.92172909]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 1.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.18677902, 157.23371482, 157.87437391]), 'score_time': array([165.35864735, 162.23366666, 162.53053808]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 1.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.15613365, 31.92175078, 30.40613151]), 'score_time': array([33.81233788, 34.9529655 , 31.90609765]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 10.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.89001656, 157.25061345, 167.35870934]), 'score_time': array([164.57007885, 181.0388577 , 174.29611349]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 10.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.87491608, 31.67173624, 30.10929894]), 'score_time': array([33.78108263, 34.90609527, 32.09356284]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 10.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.93684363, 156.68815041, 161.21801901]), 'score_time': array([164.43678141, 161.7336719 , 163.19075894]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 10.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.67173648, 31.57801557, 30.03113675]), 'score_time': array([33.68735981, 34.82796764, 31.98422623]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 10.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([157.36678505, 160.88994503, 157.87434387]), 'score_time': array([164.6886003 , 161.59304786, 161.87429404]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 10.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.76544571, 32.37487507, 30.12487364]), 'score_time': array([33.68739843, 34.78108954, 32.00342703]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 100.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.35876131, 156.51495051, 156.95848536]), 'score_time': array([163.87428641, 161.53059912, 162.23472047]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 100.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.8749063 , 31.56237578, 29.84358358]), 'score_time': array([33.62484598, 34.74983835, 31.87489438]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 100.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.37696624, 156.92123795, 158.34308124]), 'score_time': array([164.88561916, 161.18681121, 162.04615951]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 100.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.79673481, 31.87490916, 30.15612054]), 'score_time': array([33.78925776, 35.06234431, 31.87486768]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 2 C: 100.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.07750964, 156.76496363, 156.60875058]), 'score_time': array([163.88990974, 161.48773646, 162.34304237]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 2 C: 100.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.71864462, 31.70299554, 29.92175579]), 'score_time': array([33.6560967 , 34.70297289, 32.48419094]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 1.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.89640999, 157.45248866, 158.40553451]), 'score_time': array([164.49928451, 161.67117786, 162.37550044]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 1.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.46863985, 32.5311451 , 30.07803631]), 'score_time': array([33.60922432, 34.70298171, 31.85924053]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 1.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.92124104, 155.87628865, 156.73371434]), 'score_time': array([164.53053761, 161.96804214, 162.70241427]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 1.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.70302677, 31.8748219 , 29.87487817]), 'score_time': array([33.65611124, 34.718642  , 31.90610647]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 1.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.64001083, 156.65563488, 157.60711408]), 'score_time': array([164.01490283, 161.52092481, 162.88993025]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 1.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.89050412, 32.01549983, 29.95299292]), 'score_time': array([33.74984789, 34.734231  , 32.39048362]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 10.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([162.67120314, 165.90555906, 156.76499772]), 'score_time': array([174.11339402, 166.84305239, 163.42116499]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 10.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.57802129, 31.59364963, 29.90613556]), 'score_time': array([33.62484956, 35.45808315, 31.92174006]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 10.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([154.95249963, 155.6086731 , 156.56188178]), 'score_time': array([164.50391626, 161.99823761, 162.3430407 ]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 10.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.64048862, 31.82706642, 30.60924339]), 'score_time': array([34.34474325, 34.7810874 , 32.96857357]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 10.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.64946985, 156.67118645, 157.54619074]), 'score_time': array([164.71804714, 162.65556717, 162.32743406]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 10.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.49990416, 31.82800627, 29.99988866]), 'score_time': array([33.56235266, 34.73419881, 31.84361959]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 100.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.1087513 , 155.84701085, 157.63996339]), 'score_time': array([164.96803331, 162.2024157 , 162.98240781]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 100.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.7030046 , 31.71861935, 31.43735218]), 'score_time': array([33.79673219, 35.1873014 , 32.74983382]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 100.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([156.24955034, 156.71812797, 157.35870647]), 'score_time': array([164.74930286, 161.93678117, 163.09681797]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 100.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([31.76549387, 32.34360623, 30.14054894]), 'score_time': array([33.7810874 , 35.37485194, 31.96860147]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: linear Degree: 3 C: 100.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.73375201, 156.9368751 , 157.85865903]), 'score_time': array([164.29971051, 162.17116904, 162.71807742]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: linear Degree: 3 C: 100.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.28112292, 32.49991226, 30.18740439]), 'score_time': array([33.73422074, 34.85920429, 32.06528687]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 1 C: 1.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([155.32745171, 153.56183791, 289.17575431]), 'score_time': array([165.15558624, 168.51606202, 191.92042875]), 'test_precision': array([0.72661871, 0.72058824, 0.74637681]), 'test_recall': array([0.57062147, 0.55367232, 0.58522727]), 'test_f1': array([0.63924051, 0.62619808, 0.65605096])}
+SVC: Kernel: poly Degree: 1 C: 1.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([33.26548386, 32.62485719, 30.76545286]), 'score_time': array([34.09364438, 35.20297146, 32.92176127]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 1 C: 1.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([148.26500988, 147.63995409, 148.45249915]), 'score_time': array([170.74926448, 170.71805859, 174.83186865]), 'test_precision': array([1., 1., 1.]), 'test_recall': array([0.09039548, 0.10169492, 0.09659091]), 'test_f1': array([0.16580311, 0.18461538, 0.1761658 ])}
+SVC: Kernel: poly Degree: 1 C: 1.0 Gamma: 0.01
+Williams Model
+Williams Fit
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Williams:
+ {'fit_time': array([29.24991083, 29.14055252, 26.96859217]), 'score_time': array([28.79672909, 28.81235528, 26.24993086]), 'test_precision': array([0., 1., 1.]), 'test_recall': array([0.        , 0.05882353, 0.05882353]), 'test_f1': array([0.        , 0.11111111, 0.11111111])}
+SVC: Kernel: poly Degree: 1 C: 1.0 Gamma: 0.001
+Bush Model
+Bush Fit
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Bush:
+ {'fit_time': array([144.9993782 , 144.3004806 , 145.43692446]), 'score_time': array([173.03054881, 170.26488304, 189.04605794]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+SVC: Kernel: poly Degree: 1 C: 1.0 Gamma: 0.001
+Williams Model
+Williams Fit
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Williams:
+ {'fit_time': array([28.42176485, 28.12487674, 25.09690404]), 'score_time': array([28.84361839, 29.06238222, 26.3123951 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+SVC: Kernel: poly Degree: 1 C: 10.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([162.46802878, 161.35871863, 161.04921389]), 'score_time': array([167.32744837, 164.68679738, 164.53053546]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: poly Degree: 1 C: 10.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.43737268, 32.60928559, 30.71861029]), 'score_time': array([34.82796669, 35.31232691, 32.32799554]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 1 C: 10.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([161.96107411, 160.49932432, 161.48369765]), 'score_time': array([169.33789515, 164.85865641, 162.09300184]), 'test_precision': array([0.72661871, 0.72058824, 0.74637681]), 'test_recall': array([0.57062147, 0.55367232, 0.58522727]), 'test_f1': array([0.63924051, 0.62619808, 0.65605096])}
+SVC: Kernel: poly Degree: 1 C: 10.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([33.98424125, 33.67178226, 30.67175555]), 'score_time': array([34.0310905 , 35.31693268, 32.17171526]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 1 C: 10.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([147.7494204 , 147.18688869, 150.24937391]), 'score_time': array([170.37622452, 170.67424178, 173.90548944]), 'test_precision': array([1., 1., 1.]), 'test_recall': array([0.09039548, 0.10169492, 0.09659091]), 'test_f1': array([0.16580311, 0.18461538, 0.1761658 ])}
+SVC: Kernel: poly Degree: 1 C: 10.0 Gamma: 0.001
+Williams Model
+Williams Fit
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Williams:
+ {'fit_time': array([28.87491298, 29.35927486, 26.32799625]), 'score_time': array([28.6405077 , 28.81236649, 26.54678011]), 'test_precision': array([0., 1., 1.]), 'test_recall': array([0.        , 0.05882353, 0.05882353]), 'test_f1': array([0.        , 0.11111111, 0.11111111])}
+SVC: Kernel: poly Degree: 1 C: 100.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([159.99412084, 160.78057599, 162.78052568]), 'score_time': array([165.88989615, 166.8117609 , 164.51494408]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: poly Degree: 1 C: 100.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.57804775, 33.37487555, 31.34364963]), 'score_time': array([33.95296502, 35.24982405, 32.65609336]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 1 C: 100.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([159.31187439, 160.47300601, 161.34117866]), 'score_time': array([165.35864925, 164.26490855, 163.87433815]), 'test_precision': array([0.69090909, 0.66875   , 0.66887417]), 'test_recall': array([0.6440678 , 0.60451977, 0.57386364]), 'test_f1': array([0.66666667, 0.63501484, 0.617737  ])}
+SVC: Kernel: poly Degree: 1 C: 100.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.90615678, 33.07457566, 30.68738413]), 'score_time': array([34.17171216, 35.32388353, 32.2654705 ]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 1 C: 100.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([160.87436295, 159.67124176, 159.78446603]), 'score_time': array([167.51489425, 165.37427664, 162.51489663]), 'test_precision': array([0.72661871, 0.72058824, 0.74637681]), 'test_recall': array([0.57062147, 0.55367232, 0.58522727]), 'test_f1': array([0.63924051, 0.62619808, 0.65605096])}
+SVC: Kernel: poly Degree: 1 C: 100.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([32.67177773, 32.93735933, 30.81236815]), 'score_time': array([34.15610862, 35.28110075, 32.32799029]), 'test_precision': array([0.7       , 0.61538462, 0.77777778]), 'test_recall': array([0.38888889, 0.47058824, 0.41176471]), 'test_f1': array([0.5       , 0.53333333, 0.53846154])}
+SVC: Kernel: poly Degree: 2 C: 1.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([176.67114687, 175.48365235, 180.35864425]), 'score_time': array([226.29947042, 226.8427844 , 229.19363856]), 'test_precision': array([0.80869565, 0.67407407, 0.76377953]), 'test_recall': array([0.52542373, 0.51412429, 0.55113636]), 'test_f1': array([0.6369863 , 0.58333333, 0.64026403])}
+SVC: Kernel: poly Degree: 2 C: 1.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([37.71859765, 36.65608668, 35.06236625]), 'score_time': array([43.99981833, 41.15608978, 40.26544166]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 2 C: 1.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([177.23366427, 183.1554842 , 181.014853  ]), 'score_time': array([226.54985976, 227.81151247, 228.95214987]), 'test_precision': array([0.80869565, 0.69402985, 0.752     ]), 'test_recall': array([0.52542373, 0.52542373, 0.53409091]), 'test_f1': array([0.6369863 , 0.59807074, 0.62458472])}
+SVC: Kernel: poly Degree: 2 C: 1.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([37.64052129, 36.26544881, 34.9373908 ]), 'score_time': array([43.74980092, 41.42174053, 40.59356451]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 2 C: 1.0 Gamma: 0.001
+Bush Model
+Bush Fit
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Bush:
+ {'fit_time': array([169.09305382, 164.82747269, 170.88988924]), 'score_time': array([215.84492636, 210.59283566, 218.90930414]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+SVC: Kernel: poly Degree: 2 C: 1.0 Gamma: 0.001
+Williams Model
+Williams Fit
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+Williams:
+ {'fit_time': array([32.23428392, 31.51549792, 28.81239223]), 'score_time': array([34.24984598, 34.48684835, 31.9217236 ]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+SVC: Kernel: poly Degree: 2 C: 10.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([175.67117977, 175.11044979, 180.93673253]), 'score_time': array([226.07714295, 225.1552794 , 225.53027058]), 'test_precision': array([0.80869565, 0.67407407, 0.76377953]), 'test_recall': array([0.52542373, 0.51412429, 0.55113636]), 'test_f1': array([0.6369863 , 0.58333333, 0.64026403])}
+SVC: Kernel: poly Degree: 2 C: 10.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([37.65201735, 35.78110957, 35.32800865]), 'score_time': array([43.93728662, 40.95294046, 40.55127144]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 2 C: 10.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([176.35859966, 176.31173754, 179.57736373]), 'score_time': array([227.09279346, 222.86479425, 226.56187558]), 'test_precision': array([0.80869565, 0.67407407, 0.76377953]), 'test_recall': array([0.52542373, 0.51412429, 0.55113636]), 'test_f1': array([0.6369863 , 0.58333333, 0.64026403])}
+SVC: Kernel: poly Degree: 2 C: 10.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([37.56235671, 37.17172813, 35.04676247]), 'score_time': array([44.0154357 , 41.15602684, 40.1716845 ]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 2 C: 10.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([175.48362446, 169.37428832, 179.48362327]), 'score_time': array([223.26924062, 217.20104384, 228.81150293]), 'test_precision': array([0.9245283 , 0.82352941, 0.83673469]), 'test_recall': array([0.27683616, 0.23728814, 0.23295455]), 'test_f1': array([0.42608696, 0.36842105, 0.36444444])}
+SVC: Kernel: poly Degree: 2 C: 10.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([33.43739057, 31.51550174, 31.51550627]), 'score_time': array([37.10922241, 34.87483954, 35.26548004]), 'test_precision': array([0.375, 0.75 , 1.   ]), 'test_recall': array([0.16666667, 0.17647059, 0.17647059]), 'test_f1': array([0.23076923, 0.28571429, 0.3       ])}
+SVC: Kernel: poly Degree: 2 C: 100.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([176.03054309, 175.46800971, 179.51269627]), 'score_time': array([225.13964891, 224.64926934, 226.67250919]), 'test_precision': array([0.80869565, 0.67407407, 0.76377953]), 'test_recall': array([0.52542373, 0.51412429, 0.55113636]), 'test_f1': array([0.6369863 , 0.58333333, 0.64026403])}
+SVC: Kernel: poly Degree: 2 C: 100.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([38.92177224, 38.10924625, 34.73424125]), 'score_time': array([43.85917163, 40.87482905, 40.77967691]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 2 C: 100.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([188.76483989, 175.13992333, 179.67528558]), 'score_time': array([223.70215368, 223.09278011, 226.0302968 ]), 'test_precision': array([0.80869565, 0.67407407, 0.76377953]), 'test_recall': array([0.52542373, 0.51412429, 0.55113636]), 'test_f1': array([0.6369863 , 0.58333333, 0.64026403])}
+SVC: Kernel: poly Degree: 2 C: 100.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([38.20298505, 35.79674196, 34.65611839]), 'score_time': array([44.671664  , 40.95293236, 40.10918522]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 2 C: 100.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([176.9211607 , 181.54609632, 179.07782173]), 'score_time': array([227.28026891, 227.17714024, 229.67087388]), 'test_precision': array([0.80869565, 0.69402985, 0.752     ]), 'test_recall': array([0.52542373, 0.52542373, 0.53409091]), 'test_f1': array([0.6369863 , 0.59807074, 0.62458472])}
+SVC: Kernel: poly Degree: 2 C: 100.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([39.02340317, 37.52645183, 36.22174573]), 'score_time': array([45.82677841, 42.74477863, 41.90407372]), 'test_precision': array([0.42857143, 0.75      , 0.71428571]), 'test_recall': array([0.16666667, 0.35294118, 0.29411765]), 'test_f1': array([0.24      , 0.48      , 0.41666667])}
+SVC: Kernel: poly Degree: 3 C: 1.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([191.26944518, 184.55747819, 188.06438136]), 'score_time': array([249.58131385, 240.95890427, 243.96699834]), 'test_precision': array([0.73148148, 0.64122137, 0.73504274]), 'test_recall': array([0.44632768, 0.47457627, 0.48863636]), 'test_f1': array([0.55438596, 0.54545455, 0.58703072])}
+SVC: Kernel: poly Degree: 3 C: 1.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([44.05230069, 40.56612396, 37.87248707]), 'score_time': array([53.01290965, 47.80909491, 44.12139535]), 'test_precision': array([0.2       , 0.66666667, 0.5       ]), 'test_recall': array([0.05555556, 0.35294118, 0.29411765]), 'test_f1': array([0.08695652, 0.46153846, 0.37037037])}
+SVC: Kernel: poly Degree: 3 C: 1.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([190.51465011, 189.25452256, 190.55702424]), 'score_time': array([250.97826266, 244.46641707, 242.16738224]), 'test_precision': array([0.73148148, 0.65116279, 0.72033898]), 'test_recall': array([0.44632768, 0.47457627, 0.48295455]), 'test_f1': array([0.55438596, 0.54901961, 0.57823129])}
+SVC: Kernel: poly Degree: 3 C: 1.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([44.4158895 , 41.61991811, 37.97864389]), 'score_time': array([52.77509856, 46.61984181, 44.2675159 ]), 'test_precision': array([0.2       , 0.66666667, 0.5       ]), 'test_recall': array([0.05555556, 0.35294118, 0.29411765]), 'test_f1': array([0.08695652, 0.46153846, 0.37037037])}
+SVC: Kernel: poly Degree: 3 C: 1.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([191.33579397, 187.28940296, 198.84333658]), 'score_time': array([242.47034216, 237.97424221, 246.28782964]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+SVC: Kernel: poly Degree: 3 C: 1.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([33.21227503, 34.47440696, 32.71434975]), 'score_time': array([36.11029911, 38.58604288, 36.78333378]), 'test_precision': array([0., 0., 0.]), 'test_recall': array([0., 0., 0.]), 'test_f1': array([0., 0., 0.])}
+SVC: Kernel: poly Degree: 3 C: 10.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([191.16980195, 187.03869414, 189.10426044]), 'score_time': array([250.92554951, 241.14439011, 243.32647324]), 'test_precision': array([0.73148148, 0.64122137, 0.73504274]), 'test_recall': array([0.44632768, 0.47457627, 0.48863636]), 'test_f1': array([0.55438596, 0.54545455, 0.58703072])}
+SVC: Kernel: poly Degree: 3 C: 10.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([45.63570452, 41.49574947, 37.21708536]), 'score_time': array([54.3343308 , 46.56856227, 44.16268778]), 'test_precision': array([0.2       , 0.66666667, 0.5       ]), 'test_recall': array([0.05555556, 0.35294118, 0.29411765]), 'test_f1': array([0.08695652, 0.46153846, 0.37037037])}
+SVC: Kernel: poly Degree: 3 C: 10.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([189.72934771, 183.99552178, 188.18664908]), 'score_time': array([250.57916951, 241.20773888, 242.63199925]), 'test_precision': array([0.73148148, 0.64122137, 0.73504274]), 'test_recall': array([0.44632768, 0.47457627, 0.48863636]), 'test_f1': array([0.55438596, 0.54545455, 0.58703072])}
+SVC: Kernel: poly Degree: 3 C: 10.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([45.56320906, 41.27833343, 37.18700361]), 'score_time': array([52.3709991, 46.7443943, 44.3379178]), 'test_precision': array([0.2       , 0.66666667, 0.5       ]), 'test_recall': array([0.05555556, 0.35294118, 0.29411765]), 'test_f1': array([0.08695652, 0.46153846, 0.37037037])}
+SVC: Kernel: poly Degree: 3 C: 10.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([204.20450568, 197.05969262, 207.22598433]), 'score_time': array([265.05487895, 257.33649254, 272.30538726]), 'test_precision': array([0.80701754, 0.73913043, 0.79245283]), 'test_recall': array([0.25988701, 0.1920904 , 0.23863636]), 'test_f1': array([0.39316239, 0.30493274, 0.36681223])}
+SVC: Kernel: poly Degree: 3 C: 10.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([37.29347968, 36.40616298, 36.96774888]), 'score_time': array([42.94308615, 41.73461223, 40.52631426]), 'test_precision': array([0.16666667, 0.5       , 1.        ]), 'test_recall': array([0.05555556, 0.05882353, 0.17647059]), 'test_f1': array([0.08333333, 0.10526316, 0.3       ])}
+SVC: Kernel: poly Degree: 3 C: 100.0 Gamma: 0.1
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([182.79614925, 178.13981533, 180.54615593]), 'score_time': array([241.8748734 , 232.73341799, 232.32710505]), 'test_precision': array([0.73148148, 0.64122137, 0.73504274]), 'test_recall': array([0.44632768, 0.47457627, 0.48863636]), 'test_f1': array([0.55438596, 0.54545455, 0.58703072])}
+SVC: Kernel: poly Degree: 3 C: 100.0 Gamma: 0.1
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([42.5525434 , 38.95295477, 36.10921979]), 'score_time': array([50.46852446, 45.72237897, 42.702981  ]), 'test_precision': array([0.2       , 0.66666667, 0.5       ]), 'test_recall': array([0.05555556, 0.35294118, 0.29411765]), 'test_f1': array([0.08695652, 0.46153846, 0.37037037])}
+SVC: Kernel: poly Degree: 3 C: 100.0 Gamma: 0.01
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([182.85856843, 177.65549135, 181.54612994]), 'score_time': array([240.07809997, 231.34274745, 232.84276199]), 'test_precision': array([0.73148148, 0.64122137, 0.73504274]), 'test_recall': array([0.44632768, 0.47457627, 0.48863636]), 'test_f1': array([0.55438596, 0.54545455, 0.58703072])}
+SVC: Kernel: poly Degree: 3 C: 100.0 Gamma: 0.01
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([41.48901176, 37.65613818, 35.124861  ]), 'score_time': array([49.17165899, 43.62480259, 42.04664707]), 'test_precision': array([0.2       , 0.66666667, 0.5       ]), 'test_recall': array([0.05555556, 0.35294118, 0.29411765]), 'test_f1': array([0.08695652, 0.46153846, 0.37037037])}
+SVC: Kernel: poly Degree: 3 C: 100.0 Gamma: 0.001
+Bush Model
+Bush Fit
+Bush:
+ {'fit_time': array([262.56100488, 229.37401772, 196.95229101]), 'score_time': array([324.78813577, 266.77039361, 257.91863871]), 'test_precision': array([0.72897196, 0.64285714, 0.70909091]), 'test_recall': array([0.44067797, 0.45762712, 0.44318182]), 'test_f1': array([0.54929577, 0.53465347, 0.54545455])}
+SVC: Kernel: poly Degree: 3 C: 100.0 Gamma: 0.001
+Williams Model
+Williams Fit
+Williams:
+ {'fit_time': array([43.64045835, 37.3905201 , 39.65610695]), 'score_time': array([51.54664922, 44.98417258, 45.89042115]), 'test_precision': array([0.2       , 0.75      , 0.57142857]), 'test_recall': array([0.05555556, 0.35294118, 0.23529412]), 'test_f1': array([0.08695652, 0.48      , 0.33333333])}
+SVC: Kernel: rbf Degree: 1 C: 1.0 Gamma: 0.1
+Bush Model

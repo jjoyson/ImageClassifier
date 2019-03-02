@@ -1,0 +1,7 @@
+
+Williams Train: {'f1': 1.0}
+Williams Test: {'f1': 0.6923076923076924}
+Bush Train: {'f1': 0.992867332382311}
+Bush Test: {'f1': 0.8200000000000001}
+Williams Train: {'f1': 1.0}
+Williams Test: {'f1': 0.5833333333333334}

@@ -1,0 +1,25 @@
+
+Bush Train: {'f1': 0.9971590909090908}
+Bush Test: {'f1': 0.8626198083067093}
+Williams Train: {'f1': 0.8135593220338984}
+Williams Test: {'f1': 0.45454545454545453}
+Bush Train: {'f1': 1.0}
+Bush Test: {'f1': 0.8957055214723927}
+Williams Train: {'f1': 0.0}
+Williams Test: {'f1': 0.0}
+Williams Train: {'f1': 0.0}
+Williams Test: {'f1': 0.0}
+Williams Train: {'f1': 1.0}
+Williams Test: {'f1': 0.6153846153846153}
+Bush Train: {'f1': 1.0}
+Bush Test: {'f1': 0.9036144578313253}
+Bush Train: {'f1': 1.0}
+Bush Test: {'f1': 0.9134328358208955}
+Bush Train: {'f1': 1.0}
+Bush Test: {'f1': 0.9239766081871345}
+Bush Train: {'f1': 1.0}
+Bush Test: {'f1': 0.9271137026239066}
+Williams Train: {'f1': 1.0}
+Williams Test: {'f1': 0.7142857142857143}act: tanh
+Williams Train: {'f1': 1.0}
+Williams Test: {'f1': 0.7142857142857143}act: tanh
